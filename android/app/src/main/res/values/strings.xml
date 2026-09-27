@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amplificação — Óculos</string>
+    <string name="channel_name">Amplificação de som</string>
+    <string name="notification_title">Amplificação activa</string>
+    <string name="notification_text">O som ambiente está a ser amplificado nas hastes dos óculos.</string>
+    <string name="start">Iniciar amplificação</string>
+    <string name="stop">Parar</string>
+    <string name="mute">Silenciar</string>
+    <string name="input_device">Microfone (entrada)</string>
+    <string name="output_device">Altifalantes (saída)</string>
+    <string name="preset">Programa</string>
+    <string name="volume">Volume</string>
+    <string name="band_low">Graves (&lt; 800 Hz)</string>
+    <string name="band_mid">Médios (0,8–3 kHz) — inteligibilidade</string>
+    <string name="band_high">Agudos (&gt; 3 kHz) — consoantes</string>
+    <string name="mpo">Nível máximo de saída (protecção auditiva)</string>
+    <string name="feedback">Supressão de apito (Larsen)</string>
+    <string name="automatic">Automático (sistema)</string>
+    <string name="permission_needed">É necessária a permissão de microfone.</string>
+    <string name="start_failed">Não foi possível abrir os fluxos de áudio.</string>
+    <string name="safety_notice">Não substitui aparelho auditivo prescrito. Em caso de desconforto, dor ou zumbido, pare de imediato e consulte um médico otorrinolaringologista ou audiologista.</string>
+    <string-array name="presets">
+        <item>Conversação</item>
+        <item>Restaurante / ruído</item>
+        <item>Televisão / música</item>
+        <item>Exterior / vento</item>
+    </string-array>
+</resources>
